@@ -1,7 +1,6 @@
 # <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/main-awesomeWindows.png" width="400" alt="awesome windows">
 
-[![Join the chat at https://gitter.im/Awesome-Windows/Awesome](https://badges.gitter.im/Awesome-Windows/Awesome.svg)](https://gitter.im/Awesome-Windows/Awesome?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![ghit.me](https://ghit.me/badge.svg?repo=Awesome-Windows/Awesome)](https://ghit.me/repo/Awesome-Windows/Awesome) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-cn.md)
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-cn.md)
 
 > Windows上优质&精选的最佳应用程序及工具列表。
 
@@ -47,7 +46,7 @@
 ## 应用程序
 
 ### 音频
-- [安装IMP](http://www.aimp.ru/) - 32位音频处理和多格式播放。 ![Freeware][Freeware Icon]
+- [AIMP3](http://www.aimp.ru/) - 32位音频处理和多格式播放。 ![Freeware][Freeware Icon]
 - [Audacity](http://audacityteam.org/) - 免费，开源，跨平台软件，用于录制和编辑音频。 [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity) ![Freeware][Freeware Icon]
 - [CDex](http://www.cdex.fr/) - CD 音轨抓取工具 (法语站点，英文软件)。 ![Freeware][Freeware Icon]
 - [Dopamine](http://www.digimezzo.com/software/dopamine/) - 一款音频播放器，致力于为管理和播放音乐提供尽可能简单且优美的操作体验。 ![Freeware][Freeware Icon]
@@ -133,7 +132,6 @@
 - [Wireshark](https://www.wireshark.org/) - 一个网络协议分析工具。 [![Open-Source Software][OSS Icon]](https://www.wireshark.org/docs/wsdg_html_chunked/ChIntroDevelopment.html) ![Freeware][Freeware Icon]
 - [Xampp](https://www.apachefriends.org/index.html) - Apache 网站开发环境。 ![Freeware][Freeware Icon]
 - [Zsh](http://www.zsh.org/) -  一个强大的命令行shell。 [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/)
-- ~~[Alacritty](https://github.com/jwilm/alacritty) - 跨平台，使用GPU加速的终端模拟器。 [![Open-Source Software][OSS Icon]](https://github.com/jwilm/alacritty) ![Freeware][Freeware Icon]~~, not available for Windows yet.
 
 ### 文档
 - [FreeOffice](http://www.freeoffice.com/en/) - FreeOffice 提供一套完整的办公套件，拥有文字编辑器，电子表格程序和演示程序 - 均与 office 对应程序相兼容。  ![Freeware][Freeware Icon]
@@ -166,6 +164,7 @@
 - [Itch.io](https://itch.io/app/) - 安装，更新，并畅玩独立游戏 [![Open-Source Software][OSS Icon]](https://github.com/itchio/itch) ![Freeware][Freeware Icon]
 - [Origin](https://www.origin.com/en-in/store/) - 类似Steam 但属于 EA 公司。
 - [Steam](http://store.steampowered.com/) -  最大的视频游戏在线零售商。 桌面应用程序允许您管理您的游戏库，并在任何时间畅玩。 我想你早就知道了。
+- [Godot](https://github.com/godotengine/godot) - 开源游戏引擎。 入门简单且包含大量中文教程。[![Open-Source Software][OSS Icon]](https://github.com/godotengine/godot)
 - [Unity](https://unity3d.com/) - 免费游戏引擎。 入门简单且包含大量教程。
 - [Unreal Engine](https://www.unrealengine.com/what-is-unreal-engine-4) - 另一个免费游戏引擎。 更容易入门且包含大量教程，但如果你基于此引擎制作的游戏盈利， 你需支付给 Unreal 5%的盈利作为使用费。
 - [Warsow](https://www.warsow.net/) - Windows上免费和快节奏的FPS游戏。 ![Freeware][Freeware Icon]
@@ -176,6 +175,7 @@
 - [Inkscape](https://inkscape.org/en/) - 免费的矢量图形设计软件。
 - [Krita](https://krita.org/) - 有一堆很酷的功能的免费绘图软件。
 - [Paint.net](http://www.getpaint.net/index.html) - 简易版本的Photoshop。 ![Freeware][Freeware Icon]
+- [Snipaste](https://zh.snipaste.com/) 一款高效率功能全面的截图软件  ![Open-Source Software][OSS Icon]
 
 ### 文本编辑器
 - [Atom](https://atom.io/) - 面向21世纪的极客文本编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon]
@@ -210,6 +210,7 @@
 - [Hubic](https://hubic.com/en/) - 为 Windows, Linux, MacOsx, iOs & Android 平台设计的云存储。
 - [Mozy](https://mozy.com/product/download)
 - [OneDrive](https://onedrive.live.com/about/en-us/download/) - 为Windows用户提供最佳云存储解决方案，原先叫SkyDrive。
+- [百度网盘](https://pan.baidu.com/) - 中国垄断在线存储
 
 ### 备份
 - [Arq](https://www.arqbackup.com/) - 备份文件到你自己的云账户中（Amazon Cloud Drive，AWS，Dropbox，Google Drive，Google Cloud Storage，OneDrive，和SFTP）。
@@ -237,7 +238,9 @@
 - [Simplenote](https://simplenote.com/) - 基于云同步的简单跨平台笔记应用程序。 ![Freeware][Freeware Icon]
 - [Total Commander](https://www.ghisler.com/) - Windows 上最佳的文件管理器。
 - [WordWeb](http://wordweb.info/) - Windows 上很好的英文词典。 ![Freeware][Freeware Icon]
-- [Wox](http://www.getwox.com/) - Windows 上效果优异的快捷启动应用。 [![Open-Source Software][OSS Icon]](https://github.com/Wox-launcher/Wox/) ![Freeware][Freeware Icon]
+- [Wox](http://www.getwox.com/) - Windows 上效果优异的快捷启动应用。 [![Open-Source Software][OSS Icon]](https://github.com/Wox-launcher/Wox/) ![Freeware][Freeware Icon]  
+[xoring](https://www.xoring.com/) 一款基于番茄工作法的时间管理工具
+
 
 ### 终端
 - [Babun](http://babun.github.io/) - 基于 Cygwin，用于替代 Windows shell。
@@ -245,6 +248,7 @@
 - [ColorTool](https://github.com/Microsoft/Console/tree/master/tools/ColorTool) - 设置Widows终端支持iTerm的颜色模式。
 - [ConEmu](https://github.com/Maximus5/ConEmu) - 标签，分布，闪烁及其他各项均可定制的终端。
 - [ConsoleZ](https://github.com/cbucher/console) - Console 2 的修改版本，更好的体验和更好的视觉呈现。
+- [FluentTerminal](https://github.com/felixse/FluentTerminal) - 基于 UWP 和 Web 技术的终端应用程序。
 - [Hyper](https://hyper.is) - 基于 Web 技术的终端。 [![Open-Source Software][OSS Icon]](https://github.com/zeit/hyper) ![Freeware][Freeware Icon]
 - [Kitty](http://www.9bis.net/kitty/) - 高级 Putty (SSH 和 telnet 客户端)。
 - [MobaXterm](http://mobaxterm.mobatek.net/) - Xserver 和标签式 SSH 客户端。
@@ -252,9 +256,12 @@
 - [MTPuTTY](http://ttyplus.com/multi-tabbed-putty/) - 多标签 PuTTY。
 - [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) - SSH 和 telnet 客户端。
 - [Terminus](https://eugeny.github.io/terminus/) - 基于Web技术的现代高度可配置的终端应用程序。 [![Open-Source Software][OSS Icon]](https://github.com/Eugeny/terminus) ![Freeware][Freeware Icon]
+- [Alacritty](https://github.com/jwilm/alacritty) - 跨平台，使用GPU加速的终端模拟器。 [![Open-Source Software][OSS Icon]](https://github.com/jwilm/alacritty) ![Freeware][Freeware Icon]
+
 
 ### 实用程序
 - [AddToSendTo](https://aashutoshrathi.github.io/Python-Scripts-and-Games/AddToSendTo/) - 通过此脚本，您可以在右键单击时将喜欢的“文件夹”添加到“发送到”选项。 [![Open-Source Software][OSS Icon]](https://aashutoshrathi.github.io/Python-Scripts-and-Games/AddToSendTo/)
+- [Bandicam](https://www.bandicam.com) - 录制软件可以同时轻松录制桌面和3D应用程序。
 - [Carnac](http://code52.org/carnac/) - 在任何屏幕录制期间录制按键的最简单方法。
 - [CleanMyPC](http://macpaw.com/cleanmypc) - 快速的电脑清洁软件。
 - [CPU-Z](http://www.cpuid.com/softwares/cpu-z.html) - 免费且功能齐全的 CPU 监控工具。 ![Freeware][Freeware Icon]
@@ -272,6 +279,7 @@
 - [Link Shell Extension](http://schinagl.priv.at/nt/hardlinkshellext/hardlinkshellext.html) - 为资源管理器建立符号链接。
 - [PowerPlanSwitcher](https://www.microsoft.com/en-us/store/p/powerplanswitcher/9nblggh556l3) - Windows 10上快速切换电源计划。[![Open-Source Software][OSS Icon]](https://github.com/petrroll/PowerSwitcher)
 - [qBittorrent](https://qbittorrent.org/) - P2P bittorrent下载软件.
+- [Retroshare](https://retroshare.cc/) - 开源的好友间通讯及文件共享平台. [![Open-Source Software][OSS Icon]](https://github.com/RetroShare/RetroShare) 
 - [rimraf](https://www.npmjs.com/package/rimraf) - node中的深度删除模块。 用于删除具有很长路径的文件和文件夹。
 - [Rufus](https://rufus.akeo.ie/) - 创建USB启动盘。
 - [SetToStartup](https://aashutoshrathi.github.io/Python-Scripts-and-Games/SetToStartup/) - 此脚本将帮助您将您喜欢的程序或自制脚本/文件夹添加到启动。 [![Open-Source Software][OSS Icon]]
@@ -285,6 +293,9 @@
 - [WinDirStat](https://windirstat.info/) - 磁盘使用情况查看器和清洁器。
 - [Windows 10 Login Screen Changer](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer/releases/) - 更改 Windows 10 登录屏幕背景。 [![Open-Source Software][OSS Icon]](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer)
 - [Windows终端命令的A-Z](http://ss64.com/nt/)
+- [Yacy](https://github.com/yacy/yacy_search_server) - 开源合作式搜索引擎，具有搜索前端界面，爬虫后台，索引管理器等一套搜索引擎所需的组件。[![Open-Source Software][OSS Icon]](https://github.com/yacy/yacy_search_server)
+- [Zotero](https://www.zotero.org/) - 类似EndNote的开源文献管理器。[![Open-Source Software][OSS Icon]](https://github.com/zotero/zotero)
+- [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - 分布式开源网络平台，具有博客，微博，论坛等功能。[![Open-Source Software][OSS Icon]](https://github.com/HelloZeroNet/ZeroNet)
 - [ZoomIt](https://technet.microsoft.com/en-us/sysinternals/zoomit.aspx) - 一款屏幕缩放和标记工具，用于技术展示。它静默运行于托盘处，通过用户定义的热键触发放大屏幕区域，放大时拖动及在放大图像上标注。
 
 ### 视频
@@ -295,9 +306,10 @@
 - [PotPlayer](http://potplayer.daum.net/) - 多媒体播放器，具有广泛的编解码器集合，它还为用户提供大量配置选项。
 - [ScreenToGif](http://www.screentogif.com/) - 它允许你录制屏幕的一部分区域并保存为 gif 或视频。 [![Open-Source Software][OSS Icon]](https://github.com/NickeManarin/ScreenToGif/) ![Freeware][Freeware Icon]
 - [SMPlayer](https://sourceforge.net/projects/smplayer/) - 多媒体播放器，可针对不同视频保存不同的配置。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/smplayer/code/HEAD/tree/) ![Freeware][Freeware Icon]
-- [VLC](http://www.videolan.org/vlc/index.html) - 多媒体播放器和框架，用于播放DVD，音频CD，VCD和各种流协议。
+- [VLC](http://www.videolan.org/vlc/index.html) - 多媒体播放器和框架，用于播放DVD，音频CD，VCD和各种流协议。 [![Open-Source Software][OSS Icon]](https://github.com/videolan/vlc)
 
 ### 安全
+- [360](http://www.360.cn/download/)* - 360全家桶，让你的电脑飞起来
 - *[AIDA64](https://www.aida64.com/)* - 查看系统信息，支持手机。
 - *[CCleaner](https://www.piriform.com/ccleaner)* - 用于 PC 优化和清洁。
 - *[CrystalDiskMark](https://crystalmark.info/?lang=en)* - 硬盘信息，日文版和英文版。
@@ -310,6 +322,7 @@
 - [Cryptomator](https://cryptomator.org/) - 免费的客户端加密程序，用于加密你储存在云端的文件。 [![Open-Source Software][OSS Icon]](https://github.com/cryptomator/cryptomator) ![Freeware][Freeware Icon]
 - [Disable Data Logging](https://www.reddit.com/r/Windows10/comments/3f38ed/guide_how_to_disable_data_logging_in_w10) - 使Windows 10更加私密和安全。
 - [ENCRYPTO](http://macpaw.com/encrypto) - 优雅地加密你的文件。 ![Freeware][Freeware Icon]
+- [VeraCrypt](https://www.veracrypt.fr/en/Home.html) - VeraCrypt是一款适用于Windows，Mac OSX和Linux的免费开源磁盘加密软件。![Open-Source Software][OSS Icon]
 - [GlassWire](https://www.glasswire.com/) - 网络安全监控工具和分析器，可视化您的网络活动。
 - [IIS Crypto](https://www.nartac.com/Products/IISCrypto) - Windows 上用于配置加密协议，密码，散列方式和密钥交换的工具集（例如为远程桌面提供 TLS/AES/SHA 加密。）
 - [KeePass](http://www.keepass.info) - 免费、开源、易用的密码管理软件. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/keepass/) ![Freeware][Freeware Icon]
